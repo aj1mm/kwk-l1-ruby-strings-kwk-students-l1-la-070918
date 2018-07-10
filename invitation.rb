@@ -1,3 +1,2 @@
-# Code your prompts here!
+# !/usr/bin/ruby
 
-# Try starting out with puts'ing a string.
